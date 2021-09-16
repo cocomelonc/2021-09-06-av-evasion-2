@@ -1,3 +1,6 @@
+# XOR encrypt payload
+# author: @cocomelonc
+# https://cocomelonc.github.io/tutorial/2021/09/06/simple-malware-av-evasion-2.html
 import sys
 import os
 import hashlib
